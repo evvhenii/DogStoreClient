@@ -1,4 +1,4 @@
-**DogService** 
+**DogService**  
 POST:  
 /dogs?breed=&name=&description=&price=  
 GET:  
